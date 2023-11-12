@@ -11,6 +11,8 @@
 - **Iterations:** 25000
 - **Batch Size:** 2
 
+- The trained checkpoints are present inside the folder ./trained
+
 **Challenges Faced:**
 - Hardware limitations affecting model performance.
 - Suboptimal results due to training constraints.
